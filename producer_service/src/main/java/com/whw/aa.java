@@ -14,5 +14,7 @@ public class aa {
     }
     public static void main(){
         System.out.println("2");
+
+
     }
 }
